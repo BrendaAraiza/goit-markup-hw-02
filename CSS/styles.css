@@ -1,0 +1,138 @@
+/* Se aplicará a todas las etiquetas con clase title */
+.title {
+  color: #2196f3;
+  font-size: 25px;
+  line-height: 2.5;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+}
+.font1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Se aplicará a todas las etiquetas con clase text */
+.text {
+  color: rgb(129, 136, 135);
+  font-size: 14px;
+}
+.subtext {
+  color: rgb(129, 136, 135);
+  font-size: 14px;
+  text-align: center;
+}
+.boldtext {
+  font-size: 14px;
+  text-align: left;
+}
+
+.boldtext-names {
+  font-size: 14px;
+  text-align: center;
+}
+/* Se aplicará a todas las etiquetas con clase link */
+
+.link {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  
+
+}
+.link-right{
+  text-decoration: none;
+  color: #757575;
+  font-size: 14px;
+  cursor: pointer;
+  text-shadow: 30px;
+ 
+}
+.link-right:hover{
+  color:rgb(53, 128, 199)
+}
+.link:hover {
+  color:rgb(53, 128, 199);
+
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  color:rgb(53, 128, 199)
+}
+
+a {
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.subtitle {
+  padding: 70px;
+}
+
+.button {
+  color: white;
+  background-color: rgb(53, 128, 199);
+  font-size: 10px;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+}
+.button:focus,
+.button:hover {
+  color:rgb(52, 53, 54);
+}
+.what{
+  color:rgb(52,53,54);
+  text-align: center;
+}
+.wb{
+  background-color: #f5f4fa;
+}
+footer{
+  line-height: 1.5;
+}
+.foot1{
+  background-color: rgb(52,53,54) ;
+  color:rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+
+}
+.subft{
+  background-color: rgb(52, 53, 54);
+  color:rgb(129, 136, 135);
+}
+footer{
+  background-color: rgb(52, 53, 54);
+}
+.bg{
+  background-color: rgb(52, 53, 54);
+  text-align: center;
+  color:rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  }
+.button2{
+  border: none;
+  background-color: #f5f4fa;
+  font-size: 14px;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  cursor: pointer;
+}
+.button2:focus,
+.button:hover {
+  color:rgb(53, 128, 199)
+}  
+.boldproyects {
+  font-size: 18px;
+  text-align:left;
+  font-family: 'Roboto', sans-serif;
+}
+.sb2 {
+  color: rgb(129, 136, 135);
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
